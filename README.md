@@ -1,26 +1,14 @@
-**caden** · 18 · lake charles, la
-
-<table>
-<tr>
-<td width="60%">
-<img src="./assets/pfp.gif" width="100%">
-</td>
-<td width="40%" valign="top">
-<img src="./assets/badges/made-on-drugs.gif"><br>
-<img src="./assets/badges/win95.gif"><br>
-<img src="./assets/badges/html-today.gif"><br>
-<img src="./assets/badges/rainbow-welcome.gif"><br>
-<img src="./assets/badges/hellokitty.gif">
-</td>
-</tr>
-</table>
-
 <p>
-<img src="./assets/badges/playstation.gif">
-<img src="./assets/badges/4k1.gif">
-<img src="./assets/badges/800x600.gif">
-<img src="./assets/badges/sb.gif">
+<img src="./assets/badges/welcome.gif">
 </p>
+
+<img src="./assets/pfp.gif" width="20%">
+
+> kate libby, hackers (1995)
+
+<br>
+
+**caden** · 18 · lake charles, la
 
 infrastructure nerd. writes sad poems. keeps a homelab, keeps to himself.
 
@@ -53,7 +41,8 @@ infrastructure nerd. writes sad poems. keeps a homelab, keeps to himself.
 - positioner — mcdonald's staffing by station rating, with day parts
 
 **other**
-- spongebob.wiki — self-hosted mediawiki, ~16k uniques / ~180k requests monthly. dormant; one spinning-rust box can't carry it.
+- spongebob.wiki — self-hosted mediawiki, ~16k uniques / ~180k requests monthly. dormant; one spinning-rust box can't carry it. 
+<img src="./assets/badges/sb.gif">
 
 ### reach
 - email · caden@cayoperico.com
