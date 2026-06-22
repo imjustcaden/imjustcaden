@@ -41,7 +41,7 @@ infrastructure nerd. writes sad poems. keeps a homelab, keeps to himself.
 - positioner — mcdonald's staffing by station rating, with day parts
 
 **other**
-- spongebob.wiki — self-hosted mediawiki, ~16k uniques / ~180k requests monthly. dormant; one spinning-rust box can't carry it. 
+- spongebob.wiki — self-hosted mediawiki, alternative to the fandom wiki. dormant; one spinning-rust box can't carry it. 
 <img src="./assets/badges/sb.gif">
 
 ### reach
